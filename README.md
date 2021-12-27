@@ -1,16 +1,16 @@
-### Hi there 👋
+### About zee8
 
-<!--
-**zee8/zee8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Name
 
-Here are some ideas to get you started:
+Takeshi Tsunoda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Affiliation
+
+Founder and Chief Architect at [Endless Knot](https://endless-knot.asia/).
+
+#### Interests
+
+- Languages (English & Indonesian)
+- Southeast Asia
+- Software Architecture
+- Product Management
