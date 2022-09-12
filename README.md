@@ -15,4 +15,4 @@ Founder and Chief Architect at [Endless Knot](https://endless-knot.asia/).
 - Software Architecture
 - Product Management
 - Languages (English & Indonesian)
-- Southeast Asia
+- TDD/BDD
