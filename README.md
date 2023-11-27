@@ -11,5 +11,4 @@ Founder and Chief Architect at [Endless Knot](https://endless-knot.asia/).
 #### Interests
 
 - Software Architecture
-- TDD/BDD
 - Languages (English & Indonesian)
